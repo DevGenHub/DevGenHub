@@ -1,6 +1,6 @@
 ### Привет, я Евгений 👋
 
-🇷🇺 Разработчик · ИИ-агенты и автоматизация · Автор [русификатора ZCode](https://github.com/DevGenHub/zcode-rusifikator)
+Разработчик · ИИ-агенты и автоматизация · Автор [русификатора ZCode](https://github.com/DevGenHub/zcode-rusifikator)
 
 - 🔭 Текущий проект: **[ZCode Rusifikator](https://github.com/DevGenHub/zcode-rusifikator)** — полный русский перевод интерфейса ZCode Desktop (~5 000 строк), устанавливается одним скриптом и возвращается после каждого обновления
 - ⚙️ Интересы: `ИИ-агенты` · `автоматизация` · `Electron` · `Node.js` · `PowerShell`
